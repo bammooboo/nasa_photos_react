@@ -6,6 +6,8 @@ An axios api call is getting the images, with the default temporarily set as 'sa
 
 The next thing on the agenda would be to complete the search funtionality and add 'previous/next' functionality to the image modal.
 
+If cloning, once cloned, run (npm install) to save the dependencies then run (npm start).
+
 
 ## create-react-app info
 
