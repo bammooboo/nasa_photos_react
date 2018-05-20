@@ -5,6 +5,8 @@ An axios api call is getting the images, with the default temporarily set as 'sa
 The next thing on the agenda would be to complete the search funtionality and add a 'previous/next functionality to the image modal.
 
 
+##create-react-app info
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
