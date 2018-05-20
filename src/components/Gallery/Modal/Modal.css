@@ -1,0 +1,11 @@
+.modal {
+  position: fixed;
+  z-index: 500;
+  background-color: rgba(170, 170, 170, 0.5);
+  max-width: 70%;
+  max-height: 100%;
+  left: 50%;
+  top: 50%;
+  transition: all 1s ease-out;
+  -webkit-transform: translate(-50%, -50%);
+}

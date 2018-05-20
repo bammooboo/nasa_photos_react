@@ -1,0 +1,48 @@
+.navigation {
+  height: 78px;
+  position: fixed;
+  width: 100%;
+  z-index: 400;
+  display: flex;
+  flex-flow: row;
+  border-bottom: 1px solid #6b6a6a;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+}
+
+.logo {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.logo img {
+  width: 60px;
+  margin-right: 20px;
+}
+
+.logo p {
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  word-spacing: 0.4rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+.searchContainer {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+
+.searchBox {
+  margin-right: 20px;
+}
+
+@media screen and (max-width: 620px) {
+  .logo p {
+    display: none;
+  }
+}
